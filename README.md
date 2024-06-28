@@ -1,1 +1,1 @@
-# Equity-Research-Report---Tata-Motors
+# Equity-Research-Report-Tata-Motors
