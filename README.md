@@ -1,0 +1,33 @@
+Hi,
+
+Welcome to my repository. Here, you will find a collection of my detailed research reports, showcasing my expertise and methodology in analyzing and valuing companies. 
+
+Key Activities:
+
+1. Acquired Essential Skills:
+   - Gained expertise in Financial Statement Analysis, Valuation, Ratio Analysis, Financial Analysis, and Market Trend Analysis.
+   - Developed skills in Project Management and Stakeholder Management, and assessed their applications in various contexts.
+
+2. Strategic Advisory Support:
+   - Performed management, industry, and company analysis to prepare research reports supporting strategic advisory.
+   - Focused on business operations, financial information, and operational KPIs to provide comprehensive insights.
+
+3. Conference Calls and Management Reports:
+   - Conducted detailed reviews of quarterly earnings calls and management briefings.
+   - Summarized key takeaways, management perspectives, and future guidance provided during these calls in the report.
+
+4. Annual Reports Analysis:
+   - Comprehensive review of annual reports to assess financial health and strategic direction.
+   - Evaluated key financial metrics, management strategies, and risk factors highlighted in these reports.
+
+5. Industry and Sector Insights:
+   - Performed in-depth industry and sector analysis for understanding market trends and competitive dynamics.
+   - Leveraged various industry reports, market studies, and sector-specific data to provide a holistic view.
+
+6. Comparative Research:
+   - Reviewed and compared reports from other research houses to gauge consensus estimates and market sentiment.
+   - Analyzed variations and provided reasoned analysis for differences in street estimates.
+
+7. Future Trends and Valuation:
+   - Projected future trends and conducted detailed valuation analysis using models such as Discounted Cash Flow (DCF) and EV/EBITDA ratios.
+   - Included well-reasoned assumptions and sensitivity analysis in valuation reports.
